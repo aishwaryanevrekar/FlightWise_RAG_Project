@@ -11,6 +11,7 @@ Airline policy information (baggage, cancellation/refund, conditions of carriage
 ## Tech Stack
 - **Language/tooling:** Python, Jupyter, [uv](https://docs.astral.sh/uv/)
 - **Orchestration:** LangChain (LCEL, prompt templates), LangGraph
+- **Demo UI:** Gradio
 - **LLM:** Groq (`openai/gpt-oss-120b`, temperature 0.1)
 - **Embeddings:** Ollama `nomic-embed-text`
 - **Vector store:** Chroma; BM25 (`rank-bm25`) for keyword retrieval
@@ -22,6 +23,7 @@ Airline policy information (baggage, cancellation/refund, conditions of carriage
 3. **Retrieval:** compared similarity search, MMR, and hybrid (BM25 + Chroma via `EnsembleRetriever`), with airline metadata filters to avoid mixing policies.
 4. **Generation:** LangGraph `retrieve -> generate` workflow; Pydantic structured output; answers grounded in retrieved sources.
 5. **Evaluation:** 38 questions in `evaluation/evaluation_questions.csv`, scored by airline hit rate and category hit rate.
+6. **Demo:** a simple Gradio web app at the end of the notebook (pick an airline, ask a question, get a sourced answer).
 
 ## How to Run
 1. Install uv:
