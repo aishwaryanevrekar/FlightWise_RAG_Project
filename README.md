@@ -2,6 +2,17 @@
 
 > **Evidence-grounded airline disruption and passenger-policy assistant**
 
+[![Academic project status badge](https://img.shields.io/badge/Status-Academic%20Project-blue)](#license-and-academic-use)
+[![Prototype status badge](https://img.shields.io/badge/Stage-Prototype-informational)](#license-and-academic-use)
+[![Python technology badge](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter Notebook technology badge](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Gradio technology badge](https://img.shields.io/badge/Gradio-UI-F97316)](https://www.gradio.app/)
+[![LangChain technology badge](https://img.shields.io/badge/LangChain-Orchestration-1C3C3C)](https://www.langchain.com/)
+[![LangGraph technology badge](https://img.shields.io/badge/LangGraph-Workflow-0A0A0A)](https://langchain-ai.github.io/langgraph/)
+[![Chroma technology badge](https://img.shields.io/badge/Chroma-Vector%20Store-7A3FFC)](https://www.trychroma.com/)
+[![Groq technology badge](https://img.shields.io/badge/Groq-LLM%20Inference-00A67E)](https://groq.com/)
+[![Ollama technology badge](https://img.shields.io/badge/Ollama-Embeddings-111111)](https://ollama.com/)
+
 FlightWise is a Retrieval-Augmented Generation (RAG) prototype that helps passengers find clear, airline-specific answers about baggage, cancellations, refunds, conditions of carriage, and passenger rights. Answers are generated from a curated policy corpus and include retrieved evidence so users can verify the result.
 
 **Generative AI — Assignment 3 · AI & Data Science Program · Jio Institute**
