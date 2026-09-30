@@ -1,0 +1,115 @@
+question_id,airline,method,airline_hit,category_hit,retrieved_titles
+Q01,Air India,similarity,1,1,Checked Baggage Allowance | Checked Baggage Allowance | Checked Baggage Allowance
+Q02,Air India,similarity,1,1,Checked Baggage Allowance | Conditions of Carriage | Checked Baggage Allowance
+Q03,Air India,similarity,1,1,"Payment, Refund and Cancellation FAQ | Payment, Refund and Cancellation FAQ | Payment, Refund and Cancellation FAQ"
+Q04,IndiGo,similarity,1,0,Conditions of Carriage | Conditions of Carriage | Conditions of Carriage
+Q05,IndiGo,similarity,1,1,Flight Cancellation | Flight Cancellation | Conditions of Carriage
+Q06,IndiGo,similarity,1,1,Flight Cancellation | Flight Cancellation | Conditions of Carriage
+Q07,Air India Express,similarity,1,1,Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview
+Q08,Air India Express,similarity,1,0,Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview
+Q09,Air India Express,similarity,1,0,Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview
+Q10,Akasa Air,similarity,1,1,Excess Baggage | Excess Baggage | Excess Baggage
+Q11,Akasa Air,similarity,1,1,Web Check-In | Flexi Cover | Web Check-In
+Q12,Akasa Air,similarity,1,1,Flexi Cover | Flexi Cover | Flexi Cover
+Q13,SpiceJet,similarity,1,1,Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage | Baggage
+Q14,SpiceJet,similarity,1,0,Passenger Rights | Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage
+Q15,SpiceJet,similarity,1,1,Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage | Passenger Rights
+Q16,Alliance Air,similarity,0,0,
+Q17,Alliance Air,similarity,0,0,
+Q18,Alliance Air,similarity,0,0,
+Q19,Emirates,similarity,1,1,Checked Baggage | Checked Baggage | Checked Baggage
+Q20,Emirates,similarity,1,1,Cancellation Notice | Refund Request | Refund Request
+Q21,Emirates,similarity,1,1,Refund Request | Refund Request | Refund Request
+Q22,Qatar Airways,similarity,1,1,Optional Services and Fees | Optional Services and Fees | Conditions of Carriage
+Q23,Qatar Airways,similarity,1,1,Optional Services and Fees | Optional Services and Fees | Optional Services and Fees
+Q24,Qatar Airways,similarity,1,1,Optional Services and Fees | Optional Services and Fees | Optional Services and Fees
+Q25,Etihad Airways,similarity,1,1,Fare Types and Changes | Fare Types and Changes | Baggage Information
+Q26,Etihad Airways,similarity,1,1,Fare Types and Changes | Fare Types and Changes | General Conditions of Carriage
+Q27,Etihad Airways,similarity,1,0,Fare Types and Changes | Fare Types and Changes | Fare Types and Changes
+Q28,Singapore Airlines,similarity,1,1,Checked Baggage | Checked Baggage | Checked Baggage
+Q29,Singapore Airlines,similarity,1,1,Delayed Baggage Report | Checked Baggage | Conditions of Carriage
+Q30,Singapore Airlines,similarity,1,1,Conditions of Carriage | Conditions of Carriage | Conditions of Carriage
+Q31,Lufthansa,similarity,1,1,Baggage and Other Fees | Baggage and Other Fees | Baggage and Other Fees
+Q32,Lufthansa,similarity,1,1,Refunds | Baggage and Other Fees | Baggage and Other Fees
+Q33,Lufthansa,similarity,1,1,Refunds | Baggage and Other Fees | General Conditions of Carriage
+Q34,British Airways,similarity,1,1,Baggage FAQ | General Conditions of Carriage | Baggage FAQ
+Q35,British Airways,similarity,1,1,Baggage FAQ | Cancelled Flight FAQ | Cancelled Flight FAQ
+Q36,British Airways,similarity,1,1,Baggage FAQ | General Conditions of Carriage | General Conditions of Carriage
+Q37,DGCA / MoCA,similarity,1,1,"DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays"
+Q38,DGCA / MoCA,similarity,1,1,"DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays"
+Q01,Air India,mmr,1,1,"Checked Baggage Allowance | Payment, Refund and Cancellation FAQ | Conditions of Carriage"
+Q02,Air India,mmr,1,1,Checked Baggage Allowance | Conditions of Carriage | Checked Baggage Allowance
+Q03,Air India,mmr,1,1,"Payment, Refund and Cancellation FAQ | Conditions of Carriage | Payment, Refund and Cancellation FAQ"
+Q04,IndiGo,mmr,1,0,Conditions of Carriage | Conditions of Carriage | Conditions of Carriage
+Q05,IndiGo,mmr,1,1,Flight Cancellation | Conditions of Carriage | Flight Cancellation
+Q06,IndiGo,mmr,1,1,Flight Cancellation | Flight Cancellation | Conditions of Carriage
+Q07,Air India Express,mmr,1,1,Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview
+Q08,Air India Express,mmr,1,0,Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview
+Q09,Air India Express,mmr,1,0,Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview
+Q10,Akasa Air,mmr,1,1,Excess Baggage | Excess Baggage | Web Check-In
+Q11,Akasa Air,mmr,1,1,Web Check-In | Flexi Cover | Flexi Cover
+Q12,Akasa Air,mmr,1,1,Flexi Cover | Flexi Cover | Excess Baggage
+Q13,SpiceJet,mmr,1,0,Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage
+Q14,SpiceJet,mmr,1,0,Passenger Rights | Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage
+Q15,SpiceJet,mmr,1,1,Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage | Passenger Rights
+Q16,Alliance Air,mmr,0,0,
+Q17,Alliance Air,mmr,0,0,
+Q18,Alliance Air,mmr,0,0,
+Q19,Emirates,mmr,1,1,Checked Baggage | Cancellation Notice | Refund Request
+Q20,Emirates,mmr,1,1,Cancellation Notice | Refund Request | Cancellation Notice
+Q21,Emirates,mmr,1,1,Refund Request | Refund Request | Cancellation Notice
+Q22,Qatar Airways,mmr,1,1,Optional Services and Fees | Conditions of Carriage | Conditions of Carriage
+Q23,Qatar Airways,mmr,1,1,Optional Services and Fees | Optional Services and Fees | Conditions of Carriage
+Q24,Qatar Airways,mmr,1,1,Optional Services and Fees | Optional Services and Fees | Optional Services and Fees
+Q25,Etihad Airways,mmr,1,1,Fare Types and Changes | Baggage Information | Fare Types and Changes
+Q26,Etihad Airways,mmr,1,1,Fare Types and Changes | General Conditions of Carriage | General Conditions of Carriage
+Q27,Etihad Airways,mmr,1,1,Fare Types and Changes | Fare Types and Changes | General Conditions of Carriage
+Q28,Singapore Airlines,mmr,1,1,Checked Baggage | Conditions of Carriage | Checked Baggage
+Q29,Singapore Airlines,mmr,1,1,Delayed Baggage Report | Checked Baggage | Conditions of Carriage
+Q30,Singapore Airlines,mmr,1,1,Conditions of Carriage | Conditions of Carriage | Delayed Baggage Report
+Q31,Lufthansa,mmr,1,1,Baggage and Other Fees | General Conditions of Carriage | General Conditions of Carriage
+Q32,Lufthansa,mmr,1,1,Refunds | Baggage and Other Fees | General Conditions of Carriage
+Q33,Lufthansa,mmr,1,1,Refunds | General Conditions of Carriage | Baggage and Other Fees
+Q34,British Airways,mmr,1,1,Baggage FAQ | General Conditions of Carriage | Baggage FAQ
+Q35,British Airways,mmr,1,1,Baggage FAQ | Cancelled Flight FAQ | Cancelled Flight FAQ
+Q36,British Airways,mmr,1,1,Baggage FAQ | General Conditions of Carriage | Cancelled Flight FAQ
+Q37,DGCA / MoCA,mmr,1,1,"DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays"
+Q38,DGCA / MoCA,mmr,1,1,"DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays"
+Q01,Air India,hybrid,1,1,Checked Baggage Allowance | Checked Baggage Allowance | Checked Baggage Allowance | Checked Baggage Allowance
+Q02,Air India,hybrid,1,1,"Checked Baggage Allowance | Checked Baggage Allowance | Payment, Refund and Cancellation FAQ | Conditions of Carriage | Checked Baggage Allowance"
+Q03,Air India,hybrid,1,1,"Payment, Refund and Cancellation FAQ | Payment, Refund and Cancellation FAQ | Payment, Refund and Cancellation FAQ | Payment, Refund and Cancellation FAQ | Payment, Refund and Cancellation FAQ"
+Q04,IndiGo,hybrid,1,0,Flight Cancellation | Conditions of Carriage | Conditions of Carriage | Conditions of Carriage | Conditions of Carriage | Conditions of Carriage
+Q05,IndiGo,hybrid,1,1,Flight Cancellation | Flight Cancellation | Flight Cancellation | Flight Cancellation | Conditions of Carriage
+Q06,IndiGo,hybrid,1,1,Flight Cancellation | Flight Cancellation | Conditions of Carriage | Flight Cancellation | Conditions of Carriage
+Q07,Air India Express,hybrid,1,1,Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview
+Q08,Air India Express,hybrid,1,0,Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview
+Q09,Air India Express,hybrid,1,0,Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview | Baggage and Fare Overview
+Q10,Akasa Air,hybrid,1,1,Web Check-In | Excess Baggage | Excess Baggage | Excess Baggage | Excess Baggage | Excess Baggage
+Q11,Akasa Air,hybrid,1,1,Web Check-In | Excess Baggage | Web Check-In | Flexi Cover | Web Check-In
+Q12,Akasa Air,hybrid,1,1,Flexi Cover | Flexi Cover | Flexi Cover | Flexi Cover
+Q13,SpiceJet,hybrid,1,1,Baggage | Baggage | Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage | Baggage
+Q14,SpiceJet,hybrid,1,0,Passenger Rights | Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage
+Q15,SpiceJet,hybrid,1,0,Baggage | Baggage | Baggage | Terms and Conditions / Conditions of Carriage | Terms and Conditions / Conditions of Carriage
+Q16,Alliance Air,hybrid,0,0,ERROR: ValueError
+Q17,Alliance Air,hybrid,0,0,ERROR: ValueError
+Q18,Alliance Air,hybrid,0,0,ERROR: ValueError
+Q19,Emirates,hybrid,1,1,Checked Baggage | Checked Baggage | Checked Baggage | Checked Baggage
+Q20,Emirates,hybrid,1,1,Refund Request | Checked Baggage | Cancellation Notice | Cancellation Notice | Refund Request | Refund Request
+Q21,Emirates,hybrid,1,1,Refund Request | Refund Request | Refund Request | Refund Request
+Q22,Qatar Airways,hybrid,1,1,Conditions of Carriage | Conditions of Carriage | Conditions of Carriage | Optional Services and Fees | Optional Services and Fees | Conditions of Carriage
+Q23,Qatar Airways,hybrid,1,1,Optional Services and Fees | Optional Services and Fees | Optional Services and Fees | Optional Services and Fees | Optional Services and Fees
+Q24,Qatar Airways,hybrid,1,1,Optional Services and Fees | Optional Services and Fees | Optional Services and Fees | Optional Services and Fees | Optional Services and Fees
+Q25,Etihad Airways,hybrid,1,1,Baggage Information | Baggage Information | Baggage Information | Fare Types and Changes | Fare Types and Changes
+Q26,Etihad Airways,hybrid,1,1,General Conditions of Carriage | Baggage Information | General Conditions of Carriage | Fare Types and Changes | Fare Types and Changes
+Q27,Etihad Airways,hybrid,1,1,Baggage Information | Baggage Information | General Conditions of Carriage | Fare Types and Changes | Fare Types and Changes | Fare Types and Changes
+Q28,Singapore Airlines,hybrid,1,1,Checked Baggage | Checked Baggage | Checked Baggage | Checked Baggage
+Q29,Singapore Airlines,hybrid,1,1,Delayed Baggage Report | Checked Baggage | Conditions of Carriage | Checked Baggage | Conditions of Carriage
+Q30,Singapore Airlines,hybrid,1,1,Checked Baggage | Checked Baggage | Checked Baggage | Conditions of Carriage | Conditions of Carriage | Conditions of Carriage
+Q31,Lufthansa,hybrid,1,1,Baggage and Other Fees | Baggage and Other Fees | Baggage and Other Fees | Baggage and Other Fees
+Q32,Lufthansa,hybrid,1,1,General Conditions of Carriage | General Conditions of Carriage | Refunds | Refunds | Baggage and Other Fees | Baggage and Other Fees
+Q33,Lufthansa,hybrid,1,1,General Conditions of Carriage | General Conditions of Carriage | General Conditions of Carriage | Refunds | Baggage and Other Fees | General Conditions of Carriage
+Q34,British Airways,hybrid,1,1,Baggage FAQ | General Conditions of Carriage | General Conditions of Carriage | Baggage FAQ
+Q35,British Airways,hybrid,1,1,Cancelled Flight FAQ | General Conditions of Carriage | Baggage FAQ | Baggage FAQ | Cancelled Flight FAQ
+Q36,British Airways,hybrid,1,1,General Conditions of Carriage | General Conditions of Carriage | Cancelled Flight FAQ | Baggage FAQ
+Q37,DGCA / MoCA,hybrid,1,1,"DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays"
+Q38,DGCA / MoCA,hybrid,1,1,"DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays | DGCA CAR - denied boarding, cancellation and delays"

@@ -1,0 +1,39 @@
+question_id,airline,expected_category,question
+Q01,Air India,baggage,What checked baggage allowance applies on Air India domestic flights?
+Q02,Air India,baggage,What is the maximum weight allowed for a single checked bag on Air India?
+Q03,Air India,cancellation_refund,"If Air India cancels my flight, how can I request a refund?"
+Q04,IndiGo,baggage,How much hand baggage can I carry on IndiGo?
+Q05,IndiGo,cancellation_refund,How close to departure can I cancel an IndiGo booking?
+Q06,IndiGo,cancellation_refund,What happens if IndiGo cancels my flight?
+Q07,Air India Express,baggage,What cabin baggage allowance is shown for Air India Express?
+Q08,Air India Express,cancellation_refund,Can I cancel an Air India Express booking online?
+Q09,Air India Express,cancellation_refund,How can I change the date or time of an Air India Express flight?
+Q10,Akasa Air,baggage,What is the standard check-in baggage allowance on Akasa Air domestic flights?
+Q11,Akasa Air,check_in,When does Akasa Air web check-in close?
+Q12,Akasa Air,cancellation_refund,How does Akasa Flexi Cover work for cancellation or amendment?
+Q13,SpiceJet,baggage,What does SpiceJet say about cabin or checked baggage?
+Q14,SpiceJet,cancellation_refund,How are SpiceJet refunds processed after cancellation?
+Q15,SpiceJet,passenger_rights,What options are offered if SpiceJet cancels a flight?
+Q16,Alliance Air,baggage,Where can I find Alliance Air baggage information?
+Q17,Alliance Air,baggage,What are Alliance Air excess baggage charges?
+Q18,Alliance Air,cancellation_refund,How can I change or cancel an Alliance Air reservation?
+Q19,Emirates,baggage,How does Emirates calculate checked baggage allowance?
+Q20,Emirates,cancellation_refund,What assistance can be available after an Emirates cancellation?
+Q21,Emirates,cancellation_refund,How can I request a refund from Emirates?
+Q22,Qatar Airways,conditions,What do Qatar Airways conditions say about refunds after a cancelled flight?
+Q23,Qatar Airways,baggage,What baggage allowance information is listed by Qatar Airways?
+Q24,Qatar Airways,baggage,What is the hand baggage allowance in Qatar Airways Economy?
+Q25,Etihad Airways,baggage,How can I check my Etihad baggage allowance?
+Q26,Etihad Airways,cancellation_refund,What fare rules affect Etihad changes and cancellations?
+Q27,Etihad Airways,conditions,What does Etihad say it may do when it cancels a flight?
+Q28,Singapore Airlines,baggage,What is the checked baggage allowance on Singapore Airlines Economy fares?
+Q29,Singapore Airlines,baggage,What should I have before reporting delayed baggage to Singapore Airlines?
+Q30,Singapore Airlines,conditions,What do Singapore Airlines conditions say about ticket refunds?
+Q31,Lufthansa,baggage,What is the basic checked baggage rule for Lufthansa Economy Class?
+Q32,Lufthansa,cancellation_refund,When is a Lufthansa airfare refundable after a cancellation or significant change?
+Q33,Lufthansa,conditions,What do Lufthansa conditions say about refunds?
+Q34,British Airways,baggage,What does British Airways say about extra baggage or baggage allowance?
+Q35,British Airways,cancellation_refund,What can I do if British Airways cancels my flight?
+Q36,British Airways,conditions,What do British Airways conditions say about involuntary fare refunds?
+Q37,DGCA / MoCA,regulatory,What facilities should airlines provide for flight cancellation or delay under Indian passenger rules?
+Q38,DGCA / MoCA,regulatory,What does the passenger charter cover for disrupted flights?

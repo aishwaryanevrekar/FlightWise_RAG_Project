@@ -1,0 +1,7 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+chroma_flightwise_db/
+.DS_Store
+.venv/

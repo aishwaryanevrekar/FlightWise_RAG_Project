@@ -1,0 +1,37 @@
+airline,category,title,url,source_type,region,notes
+DGCA / MoCA,regulatory,Passenger Charter of Rights,https://www.civilaviation.gov.in/ministry-documents/passenger-charter-of-rights,web,India,Ministry of Civil Aviation passenger rights landing page
+DGCA / MoCA,regulatory,"DGCA CAR - denied boarding, cancellation and delays",https://www.dgca.gov.in/digigov-portal/Upload?attachId=we1PSlOuQhYdHcwKKrm7ew%3D%3D&flag=iframeAttachView,pdf,India,DGCA Civil Aviation Requirement on passenger facilities during disruptions
+Air India,baggage,Checked Baggage Allowance,https://www.airindia.com/in/en/travel-information/baggage-guidelines/checked-baggage-allowance.html,web,India,Official checked baggage guidance
+Air India,cancellation_refund,"Payment, Refund and Cancellation FAQ",https://www.airindia.com/in/en/frequently-asked-questions/payment-refund-cancellations.html,web,India,Official refund and cancellation FAQ
+Air India,conditions,Conditions of Carriage,https://www.airindia.com/content/dam/air-india/pdfs/conditions-of-carriage-for-passengers-and-baggage.pdf,pdf,India,Official conditions of carriage PDF
+IndiGo,conditions,Conditions of Carriage,https://www.goindigo.in/information/conditions-of-carriage.html,web,India,"Official conditions covering cancellation, refund, passenger rights and baggage"
+IndiGo,baggage,Baggage Allowance,https://www.goindigo.in/baggage/baggage-allowance.html,web,India,Official baggage allowance page
+IndiGo,cancellation_refund,Flight Cancellation,https://www.goindigo.in/cancellation.html,web,India,Official cancellation page
+Air India Express,baggage,Baggage and Fare Overview,https://flights.airindiaexpress.com/en-in/,web,India,Official site with baggage allowance and booking management information
+Air India Express,cancellation_refund,Domestic Flights - Manage Booking,https://flights.airindiaexpress.com/en-in/domestic-flights,web,India,"Official page with cancellation, modification and status guidance"
+Akasa Air,baggage,Excess Baggage,https://www.akasaair.com/add-ons/excess-baggage,web,India,Official baggage allowances and excess baggage terms
+Akasa Air,check_in,Web Check-In,https://www.akasaair.com/check-in/web-check-in,web,India,Official check-in rules
+Akasa Air,cancellation_refund,Flexi Cover,https://www.akasaair.com/add-ons/flexi-cover,web,India,Official cancellation/amendment cover information
+SpiceJet,conditions,Terms and Conditions / Conditions of Carriage,https://corporate.spicejet.com/Tnc.aspx,web,India,Official conditions of carriage
+SpiceJet,passenger_rights,Passenger Rights,https://corporate.spicejet.com/PassengerRights.aspx,web,India,Official passenger rights and disruption/refund information
+SpiceJet,baggage,Baggage,https://corporate.spicejet.com/Baggage.aspx,web,India,Official baggage policy
+Alliance Air,baggage,Baggage Information,https://plone.allianceair.in/allianceair/en/pages/baggageinfo,web,India,Official baggage information hub
+Alliance Air,baggage,Excess Baggage,https://plone.allianceair.in/allianceair/en/pages/excess-baggage,web,India,Official excess baggage charges
+Alliance Air,cancellation_refund,Change / Cancel Reservation FAQ,https://plone.allianceair.in/allianceair/en/faq/managebooking/how-can-i-change-cancel-my-reservation,web,India,Official change/cancel booking FAQ
+Emirates,baggage,Checked Baggage,https://www.emirates.com/english/before-you-fly/baggage/checked-baggage/,web,International,Official checked baggage page
+Emirates,cancellation_refund,Cancellation Notice,https://www.emirates.com/english/before-you-fly/travel/rules-and-notices/cancellation-notice/,web,International,Official cancellation rights notice
+Emirates,cancellation_refund,Refund Request,https://www.emirates.com/english/help/forms/refund-request/,web,International,Official refund request information
+Qatar Airways,conditions,Conditions of Carriage,https://www.qatarairways.com/en/legal/conditions-of-carriage.html,web,International,Official conditions of carriage
+Qatar Airways,baggage,Optional Services and Fees,https://www.qatarairways.com/en/optional-services-and-fees.html,web,International,Official checked baggage and service fee details
+Etihad Airways,conditions,General Conditions of Carriage,https://www.etihad.com/en/legal/conditions-of-carriage,web,International,Official conditions of carriage
+Etihad Airways,baggage,Baggage Information,https://www.etihad.com/en/help/baggage-information,web,International,Official baggage calculator/policy information
+Etihad Airways,cancellation_refund,Fare Types and Changes,https://www.etihad.com/en/help/faq/fares,web,International,Official fare rules with changes/cancellations
+Singapore Airlines,conditions,Conditions of Carriage,https://www.singaporeair.com/en_UK/global_footer/conditions-carriage/,web,International,Official general conditions of carriage
+Singapore Airlines,baggage,Checked Baggage,https://www.singaporeair.com/en_UK/za/travel-info/baggage/checked-baggage/,web,International,Official checked baggage rules
+Singapore Airlines,baggage,Delayed Baggage Report,https://www.singaporeair.com/baggage-service/report-delayed-bag,web,International,Official delayed baggage reporting requirements
+Lufthansa,conditions,General Conditions of Carriage,https://www.lufthansa.com/pl/en/terms-and-conditions-lh,web,International,Official conditions of carriage
+Lufthansa,cancellation_refund,Refunds,https://www.lufthansa.com/us/en/refund,web,International,Official refund rules
+Lufthansa,baggage,Baggage and Other Fees,https://www.lufthansa.com/us/en/baggage-and-other-fees,web,International,Official baggage rules and fees
+British Airways,conditions,General Conditions of Carriage,https://www.britishairways.com/content/information/legal/conditions-of-carriage,web,International,Official conditions of carriage
+British Airways,cancellation_refund,Cancelled Flight FAQ,https://www.britishairways.com/content/information/help/faq/disruption/cancellations/cancelled-flight,web,International,Official cancellation/rebooking/refund guidance
+British Airways,baggage,Baggage FAQ,https://www.britishairways.com/content/information/help/faqs/day-of-travel,web,International,Official baggage FAQ and travel-day information
