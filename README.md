@@ -39,11 +39,11 @@ Airline policy information (baggage, cancellation/refund, conditions of carriage
    ollama pull nomic-embed-text
    ```
 4. Copy `.env.example` to `.env` and set `GROQ_API_KEY`.
-5. Open `notebooks/FlightWise_RAG_36_Sources_OneCell.ipynb` and run all cells in order. The dataset cell reuses cached PDFs in `data/policies/`, so it doesn't re-download them.
+5. Open `notebooks/FlightWise_RAG_36_Sources.ipynb` and run all cells in order. The dataset cell reuses cached PDFs in `data/policies/`, so it doesn't re-download them.
 
 ## Structure
 ```text
-├── notebooks/FlightWise_RAG_36_Sources_OneCell.ipynb   # main pipeline
+├── notebooks/FlightWise_RAG_36_Sources.ipynb   # main pipeline
 ├── data/                            # source manifests and policies/ (downloaded PDFs)
 ├── evaluation/                      # questions and retrieval results
 ├── presentation/                    # slides
